@@ -4,7 +4,7 @@
   "description": "Example to get started w/ slapp",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "echo \"Please run \"ngrok http 3000\" in another terminal and follow the README.md to complete setup\n\" && node index.js"
   },
   "repository": {
     "type": "git",
